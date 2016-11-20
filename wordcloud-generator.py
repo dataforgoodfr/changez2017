@@ -1,7 +1,7 @@
 #!/usr/bin/env python2.7
 # -*- coding: utf-8 -*-
 """
-/!\ ONLY WORKS WITH PYTHON > 3 BECAUSE OF THE WORDCLOUD PACKAGE
+/!\ ONLY WORKS WITH PYTHON < 3 BECAUSE OF THE WORDCLOUD PACKAGE
 """
 import pandas as pd
 import matplotlib.pyplot as plt
